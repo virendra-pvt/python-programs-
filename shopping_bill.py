@@ -1,0 +1,10 @@
+print("Zudio Clothing Store Invoice")
+t_shirt_price = int(input("Enter Your Price Of T-shirt: "))
+t_shirt_quantity = int(input("Enter Your Quantity Of T-shirt: "))
+jeans_price = int(input("Enter Your Price Of Jeans: "))
+jeans_quantity = int(input("Enter Your Quantity Of Jeans: "))
+jacket_price = int(input("Enter Your Price Of Jacket: "))
+jacket_quantity = int(input("Enter Your Quantity Of Jacket: "))
+print("Your Total Price Of All Items: ", t_shirt_price * t_shirt_quantity + jeans_price * jeans_quantity + jacket_price * jacket_quantity)
+print(" Invoice of Zudio Clothing Store")
+

@@ -1,0 +1,10 @@
+Name= input("Enter your name: ")
+phone= input("Enter your phone number: ")
+email= input("Enter your email address: ")
+address= input("Enter your address: ")
+
+print("--- Contact Information ---")
+print("Name:", Name)
+print("Phone:", phone)
+print("Email:", email)
+print("Address:", address)
